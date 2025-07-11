@@ -22,4 +22,4 @@ spring:
   datasource:
     url: jdbc:postgresql://localhost:5432/testdb
     username: testuser1
-    password: 6XdGKzmG
+    password: wrong_pass
